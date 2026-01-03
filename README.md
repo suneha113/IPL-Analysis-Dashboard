@@ -33,11 +33,3 @@ The dashboard analyzes IPL match data including batting, bowling, and team stati
 2. Open it in Power BI Desktop (free version)
 3. Use the Season Slicer to explore different years
 4. Interact with visualizations to filter and drill down into specific data
-
-## Requirements
-- Power BI Desktop (Free version available at microsoft.com)
-- No additional data connections required (data embedded in file)
-
-## File Information
-- **UID**: 2409014
-- **Roll No**: 14
